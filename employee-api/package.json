@@ -13,8 +13,21 @@
     "type": "git",
     "url": "https://github.com/Silvanei31/employee-crud-api.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "api",
+    "crud",
+    "azzure-functions",
+    "express",
+    "github-actions",
+    "swa",
+    "serveless",
+    "azure",
+    "postgresql",
+    "sql",
+    "javascript"
+  ],
+  "author": "Silvanei Zahn",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Silvanei31/employee-crud-api/issues"
